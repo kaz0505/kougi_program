@@ -168,7 +168,7 @@ end
 #
 def func_purima
   puts "----purima----"
-  puts ""
+  puts "hello!"
 end
 
 
