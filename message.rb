@@ -87,7 +87,7 @@ end
 #
 def func_kboyama
   puts "----kboyama----"
-  puts ""
+  puts "hello"
 end
 
 
