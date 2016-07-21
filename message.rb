@@ -42,7 +42,7 @@ end
 #
 def func_Nittar
   puts "----Nittar----"
-  puts ""
+  puts "Nittar is Nitta"
 end
 
 
@@ -168,7 +168,7 @@ end
 #
 def func_purima
   puts "----purima----"
-  puts ""
+  puts "hello!"
 end
 
 
