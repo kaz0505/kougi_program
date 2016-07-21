@@ -132,7 +132,7 @@ end
 #
 def func_n237039c
   puts "----n237039c----"
-  puts ""
+  puts "hello"
 end
 
 
