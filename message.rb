@@ -195,7 +195,7 @@ end
 #
 def func_ueueno
   puts "----ueueno----"
-  puts ""
+  puts "こんにちはこんばんは"
 end
 
 
@@ -213,7 +213,7 @@ end
 #
 def func_yutofukuda
   puts "----yutofukuda----"
-  puts ""
+  puts "こんにちは"
 end
 
 
