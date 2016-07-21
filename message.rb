@@ -87,7 +87,7 @@ end
 #
 def func_kboyama
   puts "----kboyama----"
-  puts ""
+  puts "hello"
 end
 
 
@@ -105,7 +105,7 @@ end
 #
 def func_m237017k
   puts "----m237017k----"
-  puts ""
+  puts "MATA ITSUKA KAZUAKI KEN NOMIKAI SANKA SHITAI DESU"
 end
 
 
@@ -132,7 +132,7 @@ end
 #
 def func_n237039c
   puts "----n237039c----"
-  puts ""
+  puts "hello"
 end
 
 
