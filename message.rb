@@ -33,7 +33,7 @@ end
 #
 def func_GEN1090
   puts "----GEN1090----"
-  puts ""
+  puts "Hello!!"
 end
 
 
