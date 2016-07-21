@@ -51,7 +51,7 @@ end
 #
 def func_TatekiHamasaki
   puts "----TatekiHamasaki----"
-  puts ""
+  puts "hello everyone"
 end
 
 
