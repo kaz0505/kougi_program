@@ -42,7 +42,7 @@ end
 #
 def func_Nittar
   puts "----Nittar----"
-  puts ""
+  puts "Nittar is Nitta"
 end
 
 
