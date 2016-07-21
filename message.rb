@@ -105,7 +105,7 @@ end
 #
 def func_m237017k
   puts "----m237017k----"
-  puts ""
+  puts "MATA ITSUKA KAZUAKI KEN NOMIKAI SANKA SHITAI DESU"
 end
 
 
