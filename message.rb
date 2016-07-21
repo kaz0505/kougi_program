@@ -6,7 +6,7 @@
 #
 def func_13237053
   puts "----13237053----"
-  puts ""
+  puts "message"
 end
 
 
@@ -78,7 +78,7 @@ end
 #
 def func_kaz0505
   puts "----kaz0505----"
-  puts ""
+  puts "Hello"
 end
 
 
