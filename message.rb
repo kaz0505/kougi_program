@@ -15,7 +15,7 @@ end
 #
 def func_51032
   puts "----51032----"
-  puts ""
+  puts "こんにちは。"
 end
 
 
