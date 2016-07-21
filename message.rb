@@ -51,7 +51,7 @@ end
 #
 def func_TatekiHamasaki
   puts "----TatekiHamasaki----"
-  puts ""
+  puts "hello everyone"
 end
 
 
@@ -141,7 +141,7 @@ end
 #
 def func_n237077y
   puts "----n237077y----"
-  puts ""
+  puts "Hello World"
 end
 
 
