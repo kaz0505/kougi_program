@@ -150,7 +150,7 @@ end
 #
 def func_p237204s
   puts "----p237204s----"
-  puts ""
+  puts "hello"
 end
 
 
